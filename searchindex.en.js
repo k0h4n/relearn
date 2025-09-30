@@ -25,8 +25,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Relearn Everything \u003e Log",
-    "content": "",
-    "description": "",
+    "content": "Testing update from github and see if action will trigger automatically",
+    "description": "Testing update from github and see if action will trigger automatically",
     "tags": [],
     "title": "First Day",
     "uri": "/log/first-day/index.html"
