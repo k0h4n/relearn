@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Relearn Everything'
 theme = 'hugo-theme-relearn'
+relativeURLs = true
+canonifyURLs = false
