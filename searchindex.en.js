@@ -1,35 +1,27 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "Relearn Everything",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
+    "content": "Anything about trading",
+    "description": "Anything about trading",
     "tags": [],
-    "title": "Log",
-    "uri": "/log/index.html"
+    "title": "Trading",
+    "uri": "/trading/index.html"
   },
   {
-    "breadcrumb": "Relearn Everything \u003e Log",
-    "content": "",
-    "description": "",
+    "breadcrumb": "",
+    "content": "This site is dedicated to common knowledge I capture for my future reference.",
+    "description": "This site is dedicated to common knowledge I capture for my future reference.",
     "tags": [],
-    "title": "Third Day",
-    "uri": "/log/third-day/index.html"
+    "title": "Relearn Everything",
+    "uri": "/index.html"
   },
   {
-    "breadcrumb": "Relearn Everything \u003e Log",
-    "content": "This is Second day page testing. Update automatically from github",
-    "description": "This is Second day page testing. Update automatically from github",
+    "breadcrumb": "Relearn Everything \u003e Trading",
+    "content": "What is Turtle Trading System? Turtle Trading System is rules-based trend-following strategy developed by legendary commodity trader Richard Dennis in the 1980s Below are the rule for trading:\n1. Position Size \u0026 Risk Management (Unit System)",
+    "description": "What is Turtle Trading System? Turtle Trading System is rules-based trend-following strategy developed by legendary commodity trader Richard Dennis in the 1980s Below are the rule for trading:\n1. Position Size \u0026 Risk Management (Unit System)",
     "tags": [],
-    "title": "Second Day",
-    "uri": "/log/second-day/index.html"
-  },
-  {
-    "breadcrumb": "Relearn Everything \u003e Log",
-    "content": "Testing update from github and see if action will trigger automatically",
-    "description": "Testing update from github and see if action will trigger automatically",
-    "tags": [],
-    "title": "First Day",
-    "uri": "/log/first-day/index.html"
+    "title": "Turtle Trading System",
+    "uri": "/trading/turtle/index.html"
   },
   {
     "breadcrumb": "Relearn Everything",
