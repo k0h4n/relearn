@@ -1,6 +1,6 @@
 +++
 title = "Trading"
-type = "chapter"
+#type = "chapter"
 weight = 1
 +++
 

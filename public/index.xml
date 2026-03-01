@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relearn Everything</title>
-    <link>http://localhost:1313/index.html</link>
-    <description>This is your new home page.</description>
+    <link>//localhost:1313/index.html</link>
+    <description>This site is dedicated to common knowledge I capture for my future reference.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2025 14:39:51 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Mar 2026 06:45:48 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log</title>
-      <link>http://localhost:1313/log/index.html</link>
-      <pubDate>Tue, 30 Sep 2025 14:39:51 +0800</pubDate>
-      <guid>http://localhost:1313/log/index.html</guid>
-      <description>This is a new chapter.</description>
+      <title>Trading</title>
+      <link>//localhost:1313/trading/index.html</link>
+      <pubDate>Wed, 01 Oct 2025 09:05:48 +0800</pubDate>
+      <guid>//localhost:1313/trading/index.html</guid>
+      <description>Anything about trading</description>
+    </item>
+    <item>
+      <title>Youtubes</title>
+      <link>//localhost:1313/youtube/index.html</link>
+      <pubDate>Mon, 02 Mar 2026 06:45:48 +0800</pubDate>
+      <guid>//localhost:1313/youtube/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
