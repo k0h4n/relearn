@@ -6,7 +6,7 @@
     <description>This site is dedicated to common knowledge I capture for my future reference.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:04:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:12:48 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trading</title>
@@ -18,7 +18,7 @@
     <item>
       <title>Youtubes</title>
       <link>//localhost:1313/youtube/index.html</link>
-      <pubDate>Tue, 03 Mar 2026 06:04:48 +0800</pubDate>
+      <pubDate>Tue, 03 Mar 2026 06:12:48 +0800</pubDate>
       <guid>//localhost:1313/youtube/index.html</guid>
       <description></description>
     </item>
