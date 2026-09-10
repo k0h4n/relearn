@@ -34,7 +34,7 @@ Summary dari video Success Before 30 yang berjudul [7 Hal Yang WAJIB Di-Upgrade 
 		- Tapi anehnya, banyak orang berhemat di dua tempat yang penting ini
 		- Investasi ke kursi dan kasur yang bagus yang bisa memudahkan hidupmu (investasi energi)
 	- ### Poin 6: Nutrisi & Kesehatan Aset Utama
-  	- Tubuh dan otak anda adalah mesun utama pencari uang
+    - Tubuh dan otak anda adalah mesin utama pencari uang
     - Jangan mengorbankan makanan sehat demi menghemat sedikit uang lalu menghabiskan ratusan juta rupiah di rumah sakit saat usia tua
     - Perbaiki pola makan dan hidup teratur dengan berolah raga
   - ### Poin 7: Pengalaman & Network

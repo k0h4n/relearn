@@ -58,6 +58,6 @@ Summary dari video Timothy Ronald berjudul [11 Pelajaran Hidup Termahal di 2025]
 	- Kalau kamu sudah berpikir kapan kamu akan mati, kamu akan menghargai waktu sekarang (present dalam bahasa inggris artinya hadiah atau sekarang)
 	- Kematian itu kepastian
 - ## Ketika kamu menjadi tenang, kamu akan menjadi lebih berbahaya
-	- terkarang hal yang perlu kamu lakukan hanya duduk dan mikir
-	- Bukan berarti kamu nganggu
+	- terkadang hal yang perlu kamu lakukan hanya duduk dan mikir
+	- Bukan berarti kamu nganggur
 	- Baca buku dan konsumsi informasi
