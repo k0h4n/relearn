@@ -28,12 +28,12 @@ Summary dari video Pak Win yang berjudul [7 Kebiasaan Bikin BOSAN tapi Bisa Nabu
 	- ### 5. Hitung harga barang dari jam kerja
 		- Hitung harga kamu bekerja perjam berapa
 		- Bagi harga barang dengan jam kerja untuk liat pengorbanannya
-	- ### 6. Hindari hutang ga perlu
+  - ### 6. Hindari hutang ga perlu
     - Hutang akan menggerus kekayaanmu terutama barang yang menyusut nilainya
     - Contoh barang yang menyusut nilainya: Mobil
     - Pastikan cicilan rumah kurang dari 30% pendapatan
     - Jangan terpaku pada bunga fix, pastikan hitung juga bunga floatingnya karena cicilan bisa naik 2 kali lipat
-    - Kalau barang yang di beli untuk kebutuhan produktif (menghasilkan) tidak apa berhutang
+    - Kalau barang yang di beli untuk kebutuhan produktif (menghasilkan) tidak apa berhutangsadas
   - ### 7. Jaga yang kamu liat
     - Unfollow akun sosmed flexing
     - Unfollow akun kemewahan
